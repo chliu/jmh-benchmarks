@@ -27,4 +27,4 @@ JMH-produced executable Jars support many options, so list them all:
 
 A typical execution could look as follows:
 
-    $ java -jar target/microbenchmarks.jar -f 1 -w 5s -r 5s -rf scsv -rff results.csv
+    $ java -jar target/microbenchmarks.jar -f 1 -w 2s -r 2s
