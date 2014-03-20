@@ -14,7 +14,7 @@ It uses the [OpenJDK JMH benchmark harness](http://openjdk.java.net/projects/cod
 
 We tend to be on the bleeding-edge of JMH, so you may need to build yourself a local copy
 from a Mercurial checkout:
-KK
+
     $ hg clone http://hg.openjdk.java.net/code-tools/jmh/ jmh
     $ cd jmh/
     $ mvn clean install -DskipTests=true
